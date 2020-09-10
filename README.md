@@ -94,7 +94,7 @@ From now on we can make changes to our files and permenently save those changes.
 2. `git commit -m "Meaningful message here"`
 
     A commit is the Git equivalent of a "save". Commits can be thought of as snapshots of our project at a given point in time.
-
+You can also *quick-commit* by running `git commit -am "Message here"`
 
 3. `git push`
 
