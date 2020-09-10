@@ -41,12 +41,13 @@ From now on we can make changes to our files and permenently save those changes.
 
 2. `git commit -m "Meaningful message here"`
 
-    A commit is the Git equivalent of a "save". 
+    A commit is the Git equivalent of a "save". Commits can be thought of as snapshots of our project at a given point in time.
+
 
 3. `git push`
 
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository. 
-Collapse
+
 
 
 
