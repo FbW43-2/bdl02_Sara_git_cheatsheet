@@ -86,7 +86,7 @@ git init
 
 From now on we can make changes to our files and permenently save those changes.
 
-## 4. Save changes
+## 4. Save changes.
 1. `git add .` (or `git add -A`)
 
     `git add` tells Git that you want to include the latest changes in the next commit. However, changes are not actually recorded until you run `git commit`.
@@ -99,6 +99,7 @@ You can also *quick-commit* by running `git commit -am "Message here"`
 3. `git push`
 
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository. 
+
 
 
 
