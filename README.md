@@ -101,7 +101,7 @@ You can also *quick-commit* by running `git commit -am "Message here"`
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository. 
 
 
- the end
+
 
 
 
