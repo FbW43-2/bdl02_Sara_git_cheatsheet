@@ -101,11 +101,34 @@ You can also *quick-commit* by running `git commit -am "Message here"`
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository. 
 
 
-# Git Branch :
+# 5.Branching :
 
-1. `git branch`
+- `git branch branch name`
 
-List all of the branches in your repository. This is synonymous with `git branch --list`
+create a new branch
+
+**Attintion** this will not move you to the new branch. you will need to use `git checkout`
+
+- `git checkout branch_name`
+switch to the new branch and work on changes there
+
+- `git branch -l`
+list the available branches 
+
+- `git branch -d`
+Delete the specified branch.
+
+- `git branch -D`
+
+Force delete the specified branch
+
+-`git branch -m`
+
+Rename the current branch to
+
+- `git branch -a`
+
+List all remote branches
 
 
 
